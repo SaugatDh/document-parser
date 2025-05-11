@@ -1,0 +1,15 @@
+path: /home/saugat/yolo/dataset_root # Absolute path to yolo_output_dir
+train: images/train
+val: images/val  # You'll need to create this split
+# test: images/test # Optional
+
+# Number of classes
+nc: 5 # Or however many classes you decided to map
+
+# Class names (order MUST match your yolo_class_id mapping)
+names:
+  - text
+  - title
+  - list
+  - table
+  - figure
