@@ -22,15 +22,3 @@ The project operates in several key stages:
 
 3.  **Annotation Verification (Utility):**
     *   The `check.py` script serves as a standalone utility for dataset verification. It allows developers to visualize the bounding box annotations from YOLO `.txt` label files overlaid on their corresponding images. This is invaluable for ensuring the accuracy and quality of the training data.
-
-## Installation
-*(To be filled in - placeholder for now)*
-
-## Usage
-*(To be filled in - placeholder for now)*
-
-## Contributing
-*(Optional - placeholder for now)*
-
-## License
-*(Optional - placeholder for now)*
